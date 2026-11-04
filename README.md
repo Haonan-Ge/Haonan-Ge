@@ -14,7 +14,7 @@
   <a href="https://haonan-ge.github.io"><img src="https://img.shields.io/badge/Homepage-haonan--ge.github.io-87691A?style=flat-square&logo=googlechrome&logoColor=white" alt="Homepage"></a>
 </p>
 
-🌱 I am a first-year CS Ph.D. student at [UC Santa Barbara](https://www.ucsb.edu/), advised by [Prof. Yao Qin](https://yaoqin1.github.io/) and [Prof. Zhen Dong](https://dong-zhen.com/). I build multimodal LLMs that perceive, remember, and reason over video, and that act as agents, from streaming video memory to robot-use agents. Before UCSB, I received my bachelor's degree from [Southeast University](https://www.seu.edu.cn/english/).
+🌱 I am a first-year CS Ph.D. student at [UC Santa Barbara](https://www.ucsb.edu/), advised by [Prof. Yao Qin](https://yaoqin1.github.io/). I build multimodal LLMs that perceive, remember, and reason over video, and that act as agents, from streaming video memory to robot-use agents. Before UCSB, I received my bachelor's degree from [Southeast University](https://www.seu.edu.cn/english/).
 
 🔭 I am looking for research internships for **Summer 2027**, and I am always happy to collaborate. Feel free to reach out!
 
