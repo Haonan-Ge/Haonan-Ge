@@ -25,10 +25,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: Johnny040216
+          user: Haonan-Ge
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Shanghai
+          config_timezone: America/Los_Angeles
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
